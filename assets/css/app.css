@@ -1,0 +1,15 @@
+body{
+    -webkit-app-region: drag;
+}
+#image-load{
+color: rgba(255,255,255,1);
+font-family: 'Courier New', Courier, monospace;
+}
+
+#browse-image{
+    color:rgba(255,255,255,1);
+}
+
+#hide-input{
+    display:none;
+}
